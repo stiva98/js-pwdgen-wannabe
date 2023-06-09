@@ -3,4 +3,4 @@ const lastName = prompt ('Qual è il tuo cognome?');
 const Color = prompt ('Qual è il tuo colore preferito?');
 
 
-document.writeln ('SamueleStivalettiNero101')
+document.writeln (firstName + ' ' + lastName + ' ' + Color + '101')
